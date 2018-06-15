@@ -1,0 +1,21 @@
+{
+  "name": "shamirjs",
+  "version": "1.0.0",
+  "description": "A javascript implementation of Shamir's secret sharing algorithm",
+  "main": "shamir.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cryptography",
+    "shamir",
+    "split",
+    "secret"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/unusualbob/shamirJS.git"
+  },
+  "author": "Rob Riddle",
+  "license": "MIT"
+}
